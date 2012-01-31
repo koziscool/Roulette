@@ -1,0 +1,26 @@
+#roger_abbreviated.txt
+
+
+Bet:  $20 (Straight: 8 (35:1))   result is  Bin: 36
+Roger:    $480
+Bet:  $20 (Split: 13-14 (17:1))   result is  Bin: 35
+Roger:    $460
+Bet:  $20 (Straight: 29 (35:1))   result is  Bin: 36
+Roger:    $440
+Bet:  $20 (Straight: 14 (35:1))   result is  Bin: 7
+Roger:    $420
+
+.... sometimes he wins, sometimes he loses
+.... original file has 274 lines
+
+
+Bet:  $20 (Street: 13-14-15 (11:1))   result is  Bin: 28
+Roger:    $60
+Bet:  $20 (Split: 12-15 (17:1))   result is  Bin: 18
+Roger:    $40
+Bet:  $20 (Split: 3-6 (17:1))   result is  Bin: 31
+Roger:    $20
+Bet:  $20 (Split: 2-5 (17:1))   result is  Bin: 11
+Roger:    $0
+So sad
+The end
